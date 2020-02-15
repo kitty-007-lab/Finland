@@ -180,7 +180,7 @@ animation: fadein 1s;
   }
 
   .dock ul{
-    padding:5px 70px;
+    padding:5px 30px;
     
   }
   .dock:hover {
@@ -200,7 +200,7 @@ animation: fadein 1s;
   }
 
   .dock ul:hover{
-    padding:5px 70px;
+    padding:5px 30px;
   }
 .container2{
   left: 0px;
