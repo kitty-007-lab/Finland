@@ -49,7 +49,7 @@ transition:0.2s;
 .dock .footer p{
   bottom:0;
   position: relative;
-  padding: 359px 12px 0px 0px;
+  padding: 329px 12px 0px 0px;
   text-align: center;
   color:#FFFFFF;
 }
@@ -149,10 +149,7 @@ animation: fadein 1s;
 .example {
   -ms-overflow-style: none;
 }
-html {
-  overflow:   scroll;
-}
+
 ::-webkit-scrollbar {
-    width: 0px;
     background: transparent; /* make scrollbar transparent */
 }
