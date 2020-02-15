@@ -103,7 +103,7 @@ animation: fadein 1s;
 }
 
 .about{
-  background-color: aquamarine;
+  background-color:#282B30;
   background-attachment: fixed;
   background-image: url(./photo1.jpg);
   width: 100%;
